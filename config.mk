@@ -26,6 +26,65 @@ PRODUCT_PACKAGES += \
     GreenAccent \
     WhiteAccent \
     CyanAccent \
+	AccentAmber \
+    AccentBlack \
+    AccentBlue \
+    AccentBlueGrey \
+    AccentBrown \
+    AccentCandyRed \
+    AccentCyan \
+    AccentDeepOrange \
+    AccentDeepPurple \
+    AccentExtendedGreen \
+    AccentGreen \
+    AccentGrey \
+    AccentIndigo \
+    AccentJadeGreen \
+    AccentLightBlue \
+    AccentLightGreen \
+    AccentLime \
+    AccentOrange \
+    AccentPaleBlue \
+    AccentPaleRed \
+    AccentPink \
+    AccentPurple \
+    AccentRed \
+    AccentTeal \
+    AccentYellow \
+    AccentWhite \
+    AccentUserOne \
+    AccentUserTwo \
+    AccentUserThree \
+    AccentUserFour \
+    AccentUserFive \
+    AccentUserSix \
+    AccentUserSeven \
+    AccentUserEight \
+    AccentUserNine \
+    AccentObfusBleu \
+    AccentNotImpPurple \
+    AccentHolillusion \
+    AccentMoveMint \
+    AccentFootprintPurple \
+    AccentBubblegumPink \
+    AccentFrenchBleu \
+    AccentStock \
+    AccentManiaAmber \
+    AccentSeasideMint \
+    AccentDreamyPurple \
+    AccentSpookedPurple \
+    AccentHeirloomBleu \
+    AccentTruFilPink \
+    AccentWarmthOrange \
+    AccentColdBleu \
+    AccentDiffDayGreen \
+    AccentDuskPurple \
+    AccentBurningRed \
+    AccentHazedPink \
+    AccentColdYellow \
+    AccentNewHouseOrange \
+    AccentIllusionsPurple \
+    AccentOnePlusRed
 
 # QS tile styles
 PRODUCT_PACKAGES += \
