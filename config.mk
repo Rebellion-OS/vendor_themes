@@ -1,4 +1,8 @@
 PRODUCT_PACKAGES += \
+    ContactsDark \
+    ContactsBlack \
+    DialerDark \
+    DialerBlack \
     FaceLockDark \
     SettingsIntelligenceDark \
     SystemDark \
@@ -26,7 +30,7 @@ PRODUCT_PACKAGES += \
     GreenAccent \
     WhiteAccent \
     CyanAccent \
-	AccentAmber \
+    AccentAmber \
     AccentBlack \
     AccentBlue \
     AccentBlueGrey \
