@@ -20,7 +20,5 @@
 
     <!-- Accent -->
     <color name="accent_device_default_700">#FF900000</color>
-    <color name="accent_device_default_light">#FF900000</color>
-    <color name="accent_device_default_dark">#FF900000</color>
 
 </resources>
