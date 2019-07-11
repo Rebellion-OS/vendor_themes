@@ -2,5 +2,7 @@
 <resources>
 
     <color name="gradient_end">#ffff6f20</color>
+    <color name="gradient_end_light">#ffff6f20</color>
+    <color name="gradient_end_dark">#ffff6f20</color>
 
 </resources>

@@ -20,5 +20,7 @@
 
     <!-- Accent -->
     <color name="gradient_end">#FF1B873B</color>
+    <color name="gradient_end_light">#FF1B873B</color>
+    <color name="gradient_end_dark">#FF1B873B</color>
 
 </resources>

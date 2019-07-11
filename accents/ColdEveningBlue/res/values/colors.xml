@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gradient_end">#ff2e86cd</color>
+    <color name="gradient_end_light">#ff2e86cd</color>
+    <color name="gradient_end_dark">#ff2e86cd</color>
+
+</resources>
